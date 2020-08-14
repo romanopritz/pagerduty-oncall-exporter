@@ -1,0 +1,18 @@
+---
+csv_file: oncalls.csv
+
+pagerduty:
+  api_url: 'https://api.pagerduty.com'
+  api_key: '***API_KEY***'
+  timezone: 'CET'
+  schedule_ids:
+    - ***PRIMARY_SCHEDULE_ID***
+    - ***SECONDARY_SCHEDULE_ID***
+  range_days: 14
+
+mobileworx:
+  site_url: 'https://www.mobileworx.at'
+  login: '***LOGIN***'
+  password: '***PASSWORD***'
+  service_id: 1
+
