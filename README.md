@@ -1,2 +1,2 @@
-# pagerduty-mobileworx-oncall-exporter
+# pagerduty-oncall-exporter
 Export oncall schedule from Pagerduty and upload to Mobileworx
